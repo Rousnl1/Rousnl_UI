@@ -1,0 +1,14 @@
+[
+    {
+        "author": "Rousnl",
+        "name": "UIRousnl",
+        "keyWords": "Fusión",
+        "version": "1.2.2",
+        "dofusVersion": "2.64",
+        "description": "Creado con la fusión de varias máscaras",
+        "url": "https://github.com/LounekGit/oldUIRetroRemake/raw/master/oldUIRetroRemake.zip",
+        "previewUrl": "https://github.com/LounekGit/oldUIRetroRemake/raw/master/source/bitmap/oldUIPreview.jpg",
+        "creationDate": "03/08/2022",
+        "modificationDate": "04/08/2022"
+    }
+]

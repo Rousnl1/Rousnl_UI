@@ -1,0 +1,11 @@
+<theme>
+	<name>Rousnl_UI</name>
+    <skinType>1</skinType>
+    <description>Primer tema creado por Rousnl.com</description>
+    <previewUri>RousnlUIPreview.jpg</previewUri>
+	<author>Rousnl.com</author>
+	<version>1.0.2</version>
+	<dofusVersion>2.64</dofusVersion>
+    <creationDate>01/08/2022</creationDate>
+    <modificationDate>01/08/2022</modificationDate>
+</theme>
